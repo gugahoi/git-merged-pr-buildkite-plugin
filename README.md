@@ -21,7 +21,7 @@ steps:
     commands:
       - make something
     plugins:
-      gugahoi/git-merged-pr#v0.0.1: ~
+      - gugahoi/git-merged-pr#v0.0.1: ~
 ```
 
 ## Tests
